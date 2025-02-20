@@ -6,7 +6,7 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>🚀 Welcome to React Native! 🚀</Text>
+      <Text style={styles.title}> Welcome to React Native </Text>
       <Text style={styles.counter}>Count: {count}</Text>
       <TouchableOpacity style={styles.button} onPress={() => setCount(count + 1)}>
         <Text style={styles.buttonText}>superman</Text>
