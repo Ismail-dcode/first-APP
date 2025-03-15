@@ -1,2 +1,2 @@
 # first-APP
-new  basic app 
+REACT-NATIVE learning stage 
